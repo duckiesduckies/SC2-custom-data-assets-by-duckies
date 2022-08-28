@@ -5,7 +5,7 @@
 ||Unit: Alien Roach|
 |-------------| ------------- |
 ||![](Assets/CrashRPGRoach.gif)|
-|Map: |Crash RPG|
+|Source: |Crash RPG Maximum (by duckies)|
 |Asset Type:| Unit + ability|
 |Description:| Roach that will use whirlwind ability on it's 5th normal attack.|
 |Editor Level:| Basic|
