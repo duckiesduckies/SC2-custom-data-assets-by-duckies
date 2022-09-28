@@ -1,5 +1,9 @@
 # Asseet-Lib
 
+I want someplace to store/share assets I make/reuse, but since I've only had small experience with github, it's the only thing I know for now, so I'm doing it this way :D
+
+If anyone wants to use these assets or add their own to the list - feel free to do so.
+
 # Abilities
 
 ||Ability: Storm Spiral|
