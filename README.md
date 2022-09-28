@@ -1,4 +1,4 @@
-# Asseet-Lib
+# Starcraft 2 custom datasapace assets
 
 I want someplace to store/share assets I make/reuse, but since I've only had small experience with github, it's the only thing I know for now, so I'm doing it this way :D
 
