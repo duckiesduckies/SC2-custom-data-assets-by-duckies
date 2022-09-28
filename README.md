@@ -1,6 +1,20 @@
 # Asseet-Lib
 
 # Abilities
+
+||Ability: Storm Spiral|
+|-------------| ------------- |
+||![](Assets/AbilityRaidStormSpiral.gif)|
+|Source: |Spec Ops: Raid (by duckies, unreleased)|
+|Asset Type:| Ability, creep ability|
+|Description:| Summons two beams of energy that will spiral outward damaging enemies they hit. Can damage same enemy once every second.|
+|Editor Level:| moderate|
+|Data Tags:| dummy units, kinetics|
+|Editor Notes:| Creates units with offset, then applies kinetics for rotation and force effects to push units outwards. There are 3 sets of kinetics for different rotation speeds. Faster starting kinetics are replaced with slower kinetics so that ability could be dodged as it expands. By default ability creates 2 beams, but it can be easily adjusted for more, with some trigger help to create offsets. Trigger example is included in testmap.|
+|Dataspace Link:| https://mega.nz/file/C1cFyJSI#xCFvHEwd2QiNPF_huQyw4DY1FI1VVkggFkyxnqanZBg|
+|Testmap Link:| https://mega.nz/file/mlUHETDL#r5YTIo2LVieyiWqbcJTMwznBvnlYKgOzm5cNGRjdRRI|
+---
+
 ||Ability: Ribcage|
 |-------------| ------------- |
 ||![](Assets/AbilityRibcage.gif)|
