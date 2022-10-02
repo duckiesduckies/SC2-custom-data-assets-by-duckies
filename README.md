@@ -42,12 +42,12 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 ||![](Assets/QRPG2SpellboundAbyssal.gif)|
 |Source: |QRPG2 Spellbound (asset by duckies)|
 |Asset Type:| Unit, creep unit|
-|Description:| Hybrid that creates an invisible (cloak+burrow) shard above self. Shard is attached to hybrid via kineticcs and will move together with unit. While shard is alive - it'll provide hybrid with life regeneration. Shard is designed to be killed when detected or by being caught in AOE.|
+|Description:| Hybrid that is imbued with an invisible shard (another unit). While shard is alive - it'll provide hybrid with life regeneration. Shard is designed to be killed when detected or by being caught in AOE.|
 |Editor Level:| Moderate - Easy|
 |Data Tags:| Dummy units, kinetics.|
-|Editor Notes:| Shard uses void construct model, which still emits lots of light when cloaked. Thus cloak + burrow is used to hide it completely. For any other model just cloak will be enough if one wishes to preseve some sort of distortion visual that would serve as a hint to players.|
-|Dataspace Link:| https://mega.nz/file/CxsSBQDb#dQOftduv3Z83fEhvgsjsib_qIxlGsS38kmyoiLcIV04|
-|Testmap Link:| https://mega.nz/file/Wo9XxZBR#5Sdn-bqlOZ0fZbdlULHl8r-1P9kXnDfQ4K46Nt04cjw|
+|Editor Notes:| Shard uses cloak + burrow to be completely invisible while undetected. It is attached to hybrid via kinetics.|
+|Dataspace Link:| https://mega.nz/file/zkFBBaLQ#noIfArplKKcAkYHj-YL_-LebIjqLRisbJBNzM9Xkiys|
+|Testmap Link:| https://mega.nz/file/jw8QhSrD#fnnVw4Qvkbq75qkgiozpyFaYzAuoNF8d7x-LmynT5Gg|
 ---
 ||Unit: Alien Roach|
 |-------------| ------------- |
