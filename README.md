@@ -49,6 +49,18 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 |Dataspace Link:| https://mega.nz/file/zkFBBaLQ#noIfArplKKcAkYHj-YL_-LebIjqLRisbJBNzM9Xkiys|
 |Testmap Link:| https://mega.nz/file/jw8QhSrD#fnnVw4Qvkbq75qkgiozpyFaYzAuoNF8d7x-LmynT5Gg|
 ---
+||Unit: Arc Mage|
+|-------------| ------------- |
+||![](Assets/QRPG2SpellboundArcMage.gif)|
+|Source: |QRPG2 Spellbound (asset by duckies)|
+|Asset Type:| Unit, creep unit|
+|Description:| A mage that fires a laser like attack that consists of 10 missiles fired 1 by 1.|
+|Editor Level:| Basic |
+|Data Tags:|Collideable projectiles.|
+|Editor Notes:|Spell's animations are controlled by a "simple" actor type for automatic animation when used by any other unit with the same model type.|
+|Dataspace Link:| https://mega.nz/file/ygdhBTAJ#l0sconIh5Ug9guD0NNvjobDxk68KuU1cO4PWj3JYfx8|
+|Testmap Link:| https://mega.nz/file/Dk8SiCbb#_zkv_DnQqb0Leq7DrNM2n5sQ065kSfQ4rFxHVcprulo|
+---
 ||Unit: Alien Roach|
 |-------------| ------------- |
 ||![](Assets/CrashRPGRoach.gif)|
