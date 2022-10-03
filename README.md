@@ -5,7 +5,18 @@ I want someplace to store/share assets I make/reuse, but since I've only had sma
 If anyone wants to use these assets or add their own to the list - feel free to do so.
 
 # Abilities
-
+||Ability: Frost Nova|
+|-------------| ------------- |
+||![](Assets/AbilityFrostNova.gif)|
+|Source: |QRPG2 Spellbound (asset by duckies)|
+|Asset Type:| Ability, hero ability|
+|Description:| After a preparation time of 6 seconds releases a powerful frost nova that damages and freezes nearby enemies.|
+|Editor Level:| Basic|
+|Data Tags:| Glazes, actor spam|
+|Editor Notes:| Uses following imported Hots Assets: Storm_Effect_Arthas_Base_HowlingBlast_Impact.m3, Storm_FX_Jaina_Base_FrigidTransmission_In.m3, Storm_FX_Jaina_Base_RingofFrost_Small.m3, Storm_FX_KelThuzad_Base_FrostBlast_Impact.m3 |
+|Dataspace Link:| https://mega.nz/file/y0FTmZYI#TkGmIKKwE4uxc2aKD-N4R2HuIlte5VbPBdEPctlveR8|
+|Testmap Link:| https://mega.nz/file/j0tg1QpQ#VjNZ4Y5zgVpoYiJuqpv3945-gqLtg8YEOnTxbqu6XpA|
+---
 ||Ability: Storm Spiral|
 |-------------| ------------- |
 ||![](Assets/AbilityRaidStormSpiral.gif)|
