@@ -1,14 +1,12 @@
 # Starcraft 2 custom datasapace assets
 
-I want someplace to store/share assets I make/reuse, but since I've only had small experience with github, it's the only thing I know for now, so I'm doing it this way :D
-
-If anyone wants to use these assets or add their own to the list - feel free to do so.
+Tutorial on how to make use of data spaces: https://s2editor-guides.readthedocs.io/New_Tutorials/04_Data_Editor/data-spaces/
 
 # Abilities
 ||Ability: Frost Nova|
 |-------------| ------------- |
 ||![](Assets/AbilityFrostNova.gif)|
-|Source: |QRPG2 Spellbound (asset by duckies)|
+|Source: |wip project|
 |Asset Type:| Ability, hero ability|
 |Description:| After a preparation time of 6 seconds releases a powerful frost nova that damages and freezes nearby enemies.|
 |Editor Level:| Basic|
@@ -20,7 +18,7 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 ||Ability: Storm Spiral|
 |-------------| ------------- |
 ||![](Assets/AbilityRaidStormSpiral.gif)|
-|Source: |Spec Ops: Raid (by duckies, unreleased)|
+|Source: |unreleased project|
 |Asset Type:| Ability, creep ability|
 |Description:| Summons two beams of energy that will spiral outward damaging enemies they hit. Can damage same enemy once every second.|
 |Editor Level:| Moderate|
@@ -33,7 +31,7 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 ||Ability: Ribcage|
 |-------------| ------------- |
 ||![](Assets/AbilityRibcage.gif)|
-|Source: |Crash RPG Maximum (by duckies)|
+|Source: |Crash RPG Maximum (unreleased patch)|
 |Asset Type:| Ability, creep ability|
 |Description:| Manifests lurker spines in target direction that will after a short delay close down shredding everything trapped between them.|
 |Editor Level:| Moderate|
@@ -50,7 +48,7 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 ||Unit: Flame Wraith|
 |-------------| ------------- |
 ||![](Assets/QRPG2SpellboundFlameWrath.gif)|
-|Source: |QRPG2 Spellbound (asset by duckies)|
+|Source: |wip project|
 |Asset Type:| Unit, creep unit|
 |Description:| An evil spirit that will rotate around it's target, burning it with infernal fire. There are 2 unit varians - active and hidden. Hidden is invulnerable and "hidden", will reveal self (and use evil laugh sound) when it has a valid target. Has custom death outro where it negates fatal damage, creates explosions over self, then after a delay truly dies. Inspired by castlevania's skulls + certain enemies in NES super contra stage 6.|
 |Editor Level:| Moderate|
@@ -63,7 +61,7 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 ||Unit: Abyssal|
 |-------------| ------------- |
 ||![](Assets/QRPG2SpellboundAbyssal.gif)|
-|Source: |QRPG2 Spellbound (asset by duckies)|
+|Source: |wip project|
 |Asset Type:| Unit, creep unit|
 |Description:| Hybrid that is imbued with an invisible shard (another unit). While shard is alive - it'll provide hybrid with life regeneration. Shard is designed to be killed when detected or by being caught in AOE.|
 |Editor Level:| Moderate - Easy|
@@ -75,7 +73,7 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 ||Unit: Arc Mage|
 |-------------| ------------- |
 ||![](Assets/QRPG2SpellboundArcMage.gif)|
-|Source: |QRPG2 Spellbound (asset by duckies)|
+|Source: |wip project|
 |Asset Type:| Unit, creep unit|
 |Description:| A mage that fires a laser like attack that consists of 10 missiles fired 1 by 1.|
 |Editor Level:| Basic |
@@ -87,7 +85,7 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 ||Unit: Alien Roach|
 |-------------| ------------- |
 ||![](Assets/CrashRPGRoach.gif)|
-|Source: |Crash RPG Maximum (by duckies)|
+|Source: |Crash RPG Maximum|
 |Asset Type:| Unit + ability, creep unit|
 |Description:| Roach that will use whirlwind ability on it's 5th normal attack. Whirlwind gains 1 damage each time it hits an enemy. In original map triggers are used to extend whirlwind duration by 1 sec. on hit.|
 |Editor Level:| Basic|
@@ -99,7 +97,7 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 ||Unit: Void Sliver|
 |-------------| ------------- |
 ||![](Assets/QRPG1VoidSliver.gif)|
-|Source: |QRPG1 Renegade (by duckies)|
+|Source: |QRPG1 Renegade|
 |Asset Type:| Unit + ability, creep unit|
 |Description:| Void sliver that will stun single enemy with it's autoattack up to (Can stun up to 3 enemies at the same time).|
 |Editor Level:| Basic|
