@@ -47,6 +47,18 @@ If anyone wants to use these assets or add their own to the list - feel free to 
 
 
 # Units
+||Unit: Flame Wraith|
+|-------------| ------------- |
+||![](Assets/QRPG2SpellboundFlameWrath.gif)|
+|Source: |QRPG2 Spellbound (asset by duckies)|
+|Asset Type:| Unit, creep unit|
+|Description:| An evil spirit that will rotate around it's target, burning it with infernal fire. There are 2 unit varians - active and hidden. Hidden is invulnerable and "hidden", will reveal self (and use evil laugh sound) when it has a valid target. Has custom death outro where it negates fatal damage, creates explosions over self, then after a delay truly dies. Inspired by castlevania's skulls + certain enemies in NES super contra stage 6.|
+|Editor Level:| Moderate|
+|Data Tags:| Kinetics.|
+|Editor Notes:| Uses kinetics + force effect to make unit rotate around it's target, getting pulled in if target is away and pushed away if target is close. Uses edited HotS assets Storm_Effect_KingsCrest_GhostShip_Missile.m3 (some effects removed) and Merc_BlackKnight_Vox_Idle_Laugh01.wav. Icon + Wireframe included. |
+|Dataspace Link:| https://mega.nz/file/v5lFmQKZ#GgtH3XGw0YyvCgFhJnAq8RKIxa0SsyWZ2Sx1JvS0xRQ|
+|Testmap Link:| https://mega.nz/file/m5kF2BhL#SFV7T07ScgkcOQYMxuXMzg-2uUZ9eUCQoW25Z64DPr4|
+
 ---
 ||Unit: Abyssal|
 |-------------| ------------- |
