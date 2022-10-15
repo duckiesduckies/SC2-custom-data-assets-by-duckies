@@ -15,6 +15,19 @@ Tutorial on how to make use of data spaces: https://s2editor-guides.readthedocs.
 |Dataspace Link:| https://mega.nz/file/y0FTmZYI#TkGmIKKwE4uxc2aKD-N4R2HuIlte5VbPBdEPctlveR8|
 |Testmap Link:| https://mega.nz/file/j0tg1QpQ#VjNZ4Y5zgVpoYiJuqpv3945-gqLtg8YEOnTxbqu6XpA|
 ---
+# Abilities
+||Ability: Blast Wave|
+|-------------| ------------- |
+||![](Assets/AbilityBlastWave.gif)|
+|Source: |wip project|
+|Asset Type:| Ability, hero ability|
+|Description:|Launch a shockwave in target direction. Shockwave applies a debuff which will cause affected enemies take increased damage from future blast waves.|
+|Editor Level:| Basic|
+|Data Tags:| |
+|Editor Notes:| consantly creates explosion visuals at a random point around the missile.|
+|Dataspace Link:| https://mega.nz/file/2sUyhCbB#kUbR5ZKBcmsBaukrcM7UOCRZGEt7RO7zz2IoRd1iACo|
+|Testmap Link:| https://mega.nz/file/H89XGaZK#Z2rUKWrlVb41f85qmIjeHWdIsgao5ooVs3ynMg29sC0|
+---
 ||Ability: Storm Spiral|
 |-------------| ------------- |
 ||![](Assets/AbilityRaidStormSpiral.gif)|
