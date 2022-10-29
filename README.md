@@ -2,6 +2,8 @@
 
 Tutorial on how to make use of data spaces: https://s2editor-guides.readthedocs.io/New_Tutorials/04_Data_Editor/data-spaces/
 
+Note: Some abilities will use actor event macros which need to be added into casting unit's actor's "event macros" field. Others use "Simple" actor to send animations messages without a need to add anything. I was doing it whichever way I needed to do for for each particular ability, so there isn't any special meaning behind it.
+
 # Abilities
 ||Ability: Frost Nova|
 |-------------| ------------- |
@@ -23,7 +25,7 @@ Tutorial on how to make use of data spaces: https://s2editor-guides.readthedocs.
 |Description:|Launch a shockwave in target direction. Shockwave applies a debuff which will cause affected enemies take increased damage from future blast waves.|
 |Editor Level:| Basic|
 |Data Tags:| |
-|Editor Notes:| consantly creates explosion visuals at a random point around the missile.|
+|Editor Notes:| Consantly creates explosion visuals at a random point around the missile.|
 |Dataspace Link:| https://mega.nz/file/2sUyhCbB#kUbR5ZKBcmsBaukrcM7UOCRZGEt7RO7zz2IoRd1iACo|
 |Testmap Link:| https://mega.nz/file/H89XGaZK#Z2rUKWrlVb41f85qmIjeHWdIsgao5ooVs3ynMg29sC0|
 ---
@@ -52,7 +54,18 @@ Tutorial on how to make use of data spaces: https://s2editor-guides.readthedocs.
 |Dataspace Link:| https://mega.nz/file/btNnEKZI#AN04M9zzgk5GH1G-4mJ3rAYiu03IXEm5HD14Md3F0A8|
 |Testmap Link:| https://mega.nz/file/vxsXBbwR#Rdq--DT5agxoOAHFEZ8V0TvEo9Z51lcaAMCrEsZ6JA0|
 ---
-
+||Ability: God Sword|
+|-------------| ------------- |
+||![](Assets/AbilityGodSword.gif)|
+|Source: |abandoned project|
+|Asset Type:| Ability, hero ability|
+|Description:| Creates a sword that will rotate around caster once, damaging units it hits. There are 3 abilities called level 1, levels 2 & levels 3, which create 1,2 or 3 rotating swords. |
+|Editor Level:| Moderate|
+|Data Tags:| Dummy units, kinetics|
+|Editor Notes:| First a dummy host unit is created on caster, then blade units are created and are set to rotate around that host. I've made it this way so that it would be easier to repurpose spell into different sort of spells where the rotatation center could be positioned separately from caster (for example launching it forward or making it stationary without caster). Uses following imported HotS assets: Storm_Effect_Tyrael_Base_MightOfEldruin_Missile.m3, Crusader_FallingSword_PreImpact01.wav. Uses wow icon inv_sword_2h_armyoflight_c_01.dds.|
+|Dataspace Link:| https://mega.nz/file/LlkUDArD#KDQ_L25kFuXCUNviBHmzxBT5wJuGLWBr4Gl0inFwv-4|
+|Testmap Link:| https://mega.nz/file/awMggI5A#NzueOrjcg_AZCNIwfyGFvlqz2HO_-Kvq6HvH5s1mn0Q|
+---
 
 
 
@@ -60,7 +73,7 @@ Tutorial on how to make use of data spaces: https://s2editor-guides.readthedocs.
 ||Unit: Flame Wraith|
 |-------------| ------------- |
 ||![](Assets/QRPG2SpellboundFlameWrath.gif)|
-|Source: |old unreleased/wip project|
+|Source: |abandoned project/wip project|
 |Asset Type:| Unit, creep unit|
 |Description:| An evil spirit that will rotate around it's target, burning it with infernal fire. There are 2 unit varians - active and hidden. Hidden is invulnerable and "hidden", will reveal self (and use evil laugh sound) when it has a valid target. Has custom death outro where it negates fatal damage, creates explosions over self, then after a delay truly dies. Inspired by castlevania's skulls + certain enemies in NES super contra stage 6.|
 |Editor Level:| Moderate|
