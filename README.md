@@ -31,7 +31,7 @@ Tutorial on how to make use of data spaces: https://s2editor-guides.readthedocs.
 ||Ability: Storm Spiral|
 |-------------| ------------- |
 ||![](Assets/AbilityRaidStormSpiral.gif)|
-|Source: |unreleased project|
+|Source: |prototype project|
 |Asset Type:| Ability, creep ability|
 |Description:| Summons two beams of energy that will spiral outward damaging enemies they hit. Can damage same enemy once every second.|
 |Editor Level:| Moderate|
@@ -61,7 +61,7 @@ Tutorial on how to make use of data spaces: https://s2editor-guides.readthedocs.
 ||Unit: Flame Wraith|
 |-------------| ------------- |
 ||![](Assets/QRPG2SpellboundFlameWrath.gif)|
-|Source: |wip project|
+|Source: |old unreleased/wip project|
 |Asset Type:| Unit, creep unit|
 |Description:| An evil spirit that will rotate around it's target, burning it with infernal fire. There are 2 unit varians - active and hidden. Hidden is invulnerable and "hidden", will reveal self (and use evil laugh sound) when it has a valid target. Has custom death outro where it negates fatal damage, creates explosions over self, then after a delay truly dies. Inspired by castlevania's skulls + certain enemies in NES super contra stage 6.|
 |Editor Level:| Moderate|
