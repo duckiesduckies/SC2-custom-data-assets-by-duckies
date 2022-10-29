@@ -15,7 +15,6 @@ Tutorial on how to make use of data spaces: https://s2editor-guides.readthedocs.
 |Dataspace Link:| https://mega.nz/file/y0FTmZYI#TkGmIKKwE4uxc2aKD-N4R2HuIlte5VbPBdEPctlveR8|
 |Testmap Link:| https://mega.nz/file/j0tg1QpQ#VjNZ4Y5zgVpoYiJuqpv3945-gqLtg8YEOnTxbqu6XpA|
 ---
-# Abilities
 ||Ability: Blast Wave|
 |-------------| ------------- |
 ||![](Assets/AbilityBlastWave.gif)|
