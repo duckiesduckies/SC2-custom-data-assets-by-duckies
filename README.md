@@ -101,7 +101,7 @@ Note: Some abilities will use actor event macros which need to be added into cas
 ||![](Assets/QRPG2SpellLordBrutus.gif)|
 |Source: |QRPG2 Spell Lord|
 |Asset Type:| Unit, creep unit|
-|Description:| Retextured ursadon that for autoattack uses one of 2 abilities. 1st ability is slowly telegraphed ground slam, second ability is quick area cleave attack that leaves little time for dodge.|
+|Description:| Retextured ursadon that for autoattack uses one of 2 abilities at random. 1st ability is a slowly telegraphed ground slam, second ability is quick area cleave attack that leaves little time for dodge.|
 |Editor Level:| Basic |
 |Data Tags:|-|
 |Editor Notes:|Includes 2 variations of ursadon's retexture + models (main and portrait) that use those changed textures. Brutus and Brutalis only differ in models. Maybe eventually Brutalis will have more scary abilities.|
