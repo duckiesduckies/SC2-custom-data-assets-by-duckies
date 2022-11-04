@@ -83,6 +83,18 @@ Note: Some abilities will use actor event macros which need to be added into cas
 |Testmap Link:| https://mega.nz/file/m5kF2BhL#SFV7T07ScgkcOQYMxuXMzg-2uUZ9eUCQoW25Z64DPr4|
 
 ---
+||Unit: Painting Mimic|
+|-------------| ------------- |
+||![](Assets/ScrollbladeMimicPainting.gif)|
+|Source: |abandoned project|
+|Asset Type:| Unit, creep unit|
+|Description:|Art is in the eyes of the beholder.|
+|Editor Level:| Moderate|
+|Data Tags:| Dummy unit, conjoin, unit tracker|
+|Editor Notes:| Painting is untargetable by default. When it detects a heroic enemy in front of self - it'll create an attackable tentacle unit (since it's a separate unit it provides a whole new space to both block pathing and land attacks). Tentacle's and painting's life is conjoined, tentacle gets linked to painting with unit tracker for ease/clarity of unit link management. When either unit takes fatal damage - it'll start a fake death - exploding all over the place until it completely disappears. This asset includes custom texture which changes the art in paintings + spearate model variants so that each of 4 painting variants could be created at will rather than always randomized.|
+|Dataspace Link:|https://mega.nz/file/Tg1wTRZb#3n_Dm1V2zI-Mo6vJxveYQnjBOV95b_AMIRKLgMeH4AY|
+|Testmap Link:|https://mega.nz/file/O51mFSIa#kWsOizh_RdG5-_QfONcPiGhpxdtJ0TaeCgLEn_Pkx-A|
+
 ||Unit: Abyssal|
 |-------------| ------------- |
 ||![](Assets/QRPG2SpellboundAbyssal.gif)|
